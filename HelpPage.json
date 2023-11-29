@@ -10,27 +10,27 @@
     "content": "If you know the part number you're looking for, simply type it into the search bar and click the \"search\" button. The application will return all matching parts, along with their availability and pricing."
   },
   {
-    "icon": "https://github.com/MarinaDudnikova/HviH/blob/main/category.png",
+    "icon": "https://github.com/MarinaDudnikova/HviH/blob/22222da9fc4eef88581f79015e5f897f56334326/category.png?raw=true",
     "name": "Browse by category",
     "content": "If you're not sure of the exact part number you need, you can browse the categories of HVAC parts to find the one you're looking for. Simply click on the category that best matches the part you need, and the application will display all available parts in that category."
   },
   {
-    "icon": "https://github.com/MarinaDudnikova/HviH/blob/main/refine.png",
+    "icon": "https://github.com/MarinaDudnikova/HviH/blob/22222da9fc4eef88581f79015e5f897f56334326/refine.png?raw=true",
     "name": "Refine your search",
     "content": "If your initial search returns too many results, you can refine your search by using filters such as price range, brand, or availability. You can also sort your results by price, availability, or relevance."
   },
   {
-    "icon": "https://github.com/MarinaDudnikova/HviH/blob/main/product.png",
+    "icon": "https://github.com/MarinaDudnikova/HviH/blob/22222da9fc4eef88581f79015e5f897f56334326/product.png?raw=true",
     "name": "View product details",
     "content": "Once you've found the part you need, click on its name or image to view more detailed information about it, including technical specifications, product reviews, and related products."
   },
   {
-    "icon": "https://github.com/MarinaDudnikova/HviH/blob/main/add-to-cart-3046.png",
+    "icon": "https://github.com/MarinaDudnikova/HviH/blob/22222da9fc4eef88581f79015e5f897f56334326/add-to-cart-3046.png?raw=true",
     "name": "Add to cart",
     "content": "When you're ready to make a purchase, simply click the \"Add to Cart\" button next to the part you want. You can then continue shopping or proceed to checkout."
   },
   {
-    "icon": "https://github.com/MarinaDudnikova/HviH/blob/main/2639877_online_support_icon.png",
+    "icon": "https://github.com/MarinaDudnikova/HviH/blob/22222da9fc4eef88581f79015e5f897f56334326/2639877_online_support_icon.png?raw=true",
     "name": "Contact support",
     "content": "If you have any questions or need assistance, you can contact our support team by clicking on the \"Contact Us\" link at the bottom of the page. Our team is available to help you with any issues you may encounter."
   }
